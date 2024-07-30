@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a part of the CSE414 (Introduction To Database) course at Gebze Technical University. It focuses on the design and implementation of a database system to manage a comprehensive collection of movies and TV shows. Users can search, filter, and retrieve information seamlessly.
+This project is a part of the CSE414 (Introduction To Database) course at Gebze Technical University. It focuses on the design and implementation of a database system to manage a collection of movies and TV shows. Users can search, filter, and retrieve information seamlessly.
 
 ## Features
 
